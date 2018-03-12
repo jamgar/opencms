@@ -1,6 +1,6 @@
 # OpenCMS
 
-This is a SPA created without a JavaScript Framework. I used the project to challenge myself and strengthen my foundation of JavaScript. I am sure there are many areas of the code that can be refactored and/or cleaned up. It was a great learning experience and I hope you can get some inspiration from it and build upon this project.
+This is a SPA created without a JavaScript Framework. I used the project to challenge myself and strengthen my foundation of JavaScript. I am sure there are many areas of the code that can be refactored and/or cleaned up. It was a great learning experience and I hope you can get some inspiration from it and build upon this project. I used [Bootstrap](https://getbootstrap.com) for the css because I wanted to focus more on the JavaScript than the design.
 
 ### Version
 1.0.0
@@ -37,10 +37,14 @@ $ npm run build
 ```
 
 ## More Info
+I used a fake REST API called [json-server](https://github.com/typicode/json-server) for a backend. It was very simple to setup. It is already include with this project as well as the 'db.json' file. You will just have to run `npm run json:server` for to run on your local environment.
+
+I used a Markdown editor called [inscryb-markdown-editor](https://github.com/Inscryb/inscryb-markdown-editor) for the `textarea`. It is a fork of simplemde-markdown-editor that seems to be abandon.
+
+I used [showdown](https://github.com/showdownjs/showdown) to convert the Markdown to HTML.
 
 ### Author
 
-James Garcia
 [James Garcia](http://www.garciajames.com)
 
 ### License
