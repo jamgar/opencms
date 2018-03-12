@@ -23,7 +23,7 @@ To serve in the browser  - Runs webpack-dev-server
 $ npm start
 ```
 
-To server the Json Server - Runs json-server --watch
+To serve the Json Server - Runs json-server --watch
 
 ```sh
 $ npm run json:server
