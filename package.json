@@ -1,7 +1,7 @@
 {
-  "name": "babel_webpack_starter",
+  "name": "OpenCMS",
   "version": "1.0.0",
-  "description": "Starter pack for compiling ES6+ apps to ES5",
+  "description": "An SPA created without a JavaScript Framework",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

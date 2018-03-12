@@ -4,16 +4,6 @@
       "title": "Post1",
       "body": "# Body of post1",
       "id": 1
-    },
-    {
-      "title": "New post 1a",
-      "body": "# New Post 1a\nThis is the body with heading H1 and regular body.\n\n## Heading 2",
-      "id": 2
-    },
-    {
-      "title": "Great New Post",
-      "body": "# Great New Post\nThis is some great *text*.\n\n**Bold** text\n> Quote text\n1. one\n2. two\n3. three\n\n* Step1\n* Step2\n* Step3",
-      "id": 3
     }
   ]
 }
