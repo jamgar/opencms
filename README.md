@@ -43,6 +43,8 @@ I used a Markdown editor called [inscryb-markdown-editor](https://github.com/Ins
 
 I used [showdown](https://github.com/showdownjs/showdown) to convert the Markdown to HTML.
 
+The http.js file was created from a tutorial I followed from [Brad Travesy](https://www.traversymedia.com/). Big shout out to Brad for all the tutorials he puts out on [YouTube](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA). I have learn a lot from his YouTube Channel and paid courses.
+
 ### Author
 
 [James Garcia](http://www.garciajames.com)
