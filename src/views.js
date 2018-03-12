@@ -6,7 +6,7 @@ export const home = () => {
       <div class="container">
         <h1 class="display-3">Welcome To OpenCMS</h1>
         <p>This is a SPA project without a JavaScript framework that I used for learning purposes. It has been a great learning experience. Please feel free to clone and use as you please.</p>
-        <p><a class="btn btn-primary btn-lg" href="#about" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" href="https://github.com/jamgar/opencms" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
   `
